@@ -2,7 +2,7 @@
   "name": "lordtantatornlinebot",
   "version": "1.0.0",
   "description": "My first Line bot using Nodejs",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Timefear007/LordTantatornLineBot/issues"
   },
-  "homepage": "https://github.com/Timefear007/LordTantatornLineBot#readme"
+  "homepage": "https://github.com/Timefear007/LordTantatornLineBot#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.6.0",
+    "express": "^4.16.4"
+  }
 }

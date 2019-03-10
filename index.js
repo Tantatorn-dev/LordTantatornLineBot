@@ -1,4 +1,4 @@
-import * as line from '@line/bot-sdk';
+const line = require('@line/bot-sdk');
 const express = require('express');
 
 const config = {

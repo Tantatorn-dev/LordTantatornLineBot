@@ -1,0 +1,23 @@
+{
+  "name": "lordtantatornlinebot",
+  "version": "1.0.0",
+  "description": "My first Line bot using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timefear007/LordTantatornLineBot.git"
+  },
+  "keywords": [
+    "LINE",
+    "chatbot"
+  ],
+  "author": "Lord Tantatorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timefear007/LordTantatornLineBot/issues"
+  },
+  "homepage": "https://github.com/Timefear007/LordTantatornLineBot#readme"
+}

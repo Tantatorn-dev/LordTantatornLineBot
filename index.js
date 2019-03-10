@@ -11,7 +11,6 @@ const config = {
 const app =express();
 
 app.post('/webhook',line.middleware(config),(req,res) => {
-    alert('someone send a message');
     Promise
         .all(req.body.events.map(handleEvent))
         .then((result) => res.json(result));

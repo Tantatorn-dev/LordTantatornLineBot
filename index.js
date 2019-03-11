@@ -4,7 +4,7 @@ const express = require('express');
 var port = process.env.PORT || 8080;
 
 const config = {
-    channelAccessToken: 'Rv1c5HnmDyOXCwZvxAI6G3EPr9uLehyDcExv6MF6o6mAAjkgbVimcZmQ0f7lQD1yqhMrLBCJQ1jF/gu5Gzl35QLzt/fw8ynKLPnjUA0tVfIBSXMYgul9BhD0EIRc3mmPmTWN1zvlcqgN7U9qL5Wl/wdB04t89/1O/w1cDnyilFU=',
+   channelAccessToken: '1C5B0Ob9WXDL2wLIbHkTP3/O/nPxWw6qH8Dr+eu8eMKtLK5e/fVUlZbjIsBov8OiqhMrLBCJQ1jF/gu5Gzl35QLzt/fw8ynKLPnjUA0tVfK+xFq3KCt5pp+d8ZbQ7Ag22NgKrWCDDqMjjo2SEWLg2gdB04t89/1O/w1cDnyilFU=', 
     channelSecret: '944bc05f706db53ac55535b1e7dffb9f'
 };
 
